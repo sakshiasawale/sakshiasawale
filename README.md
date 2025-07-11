@@ -1,3 +1,5 @@
+![logo](https://github.com/sakshiasawale/sakshiasawale/blob/main/github%20sakshi.png)
+
 <h1 align="center">Hi 👋, I'm Sakshi Asawale</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
